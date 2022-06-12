@@ -5,3 +5,6 @@ def addition(a,b):
 	sum = a+b
 	return sum
 
+def substraction(a,b):
+ 	sub = a-b
+	return sub
