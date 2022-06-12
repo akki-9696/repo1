@@ -29,6 +29,10 @@ def  mul(a,b):
 def show():
 	print("this is a show function)
 
+
+def show2():
+	print("this is show 2 fuction")
+
 sum_result = addition(10,20)
 print(result)
 
