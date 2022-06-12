@@ -11,6 +11,7 @@ def substraction(a,b):
 	return sub
 
 
+<<<<<<< HEAD
 def div(a,b):
 	try:
 		result = a/b
@@ -18,9 +19,17 @@ def div(a,b):
 		print("cant divide by zero")
 
 
+=======
+def  mul(a,b):
+	mul = sub(a,b)*2
+	return mul
+>>>>>>> b63c7b2c41dcfeb7fc4e50017f67d1abd0a096e0
 
 sum_result = addition(10,20)
 print(result)
 
 sub_result = sub(10,20)
 print(result)
+
+result_mul = mul(20,10)
+print(result_mul)
