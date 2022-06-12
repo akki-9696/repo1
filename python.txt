@@ -33,6 +33,9 @@ def show():
 def show2():
 	print("this is show 2 fuction")
 
+def show3():
+	print("this is show 3 function")
+
 sum_result = addition(10,20)
 print(result)
 
