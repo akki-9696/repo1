@@ -1,0 +1,11 @@
+#write the python code for addition
+
+
+def addition(a,b):
+	sum = a+b
+	return sum
+
+
+result = addition(10,20)
+print(result)
+
