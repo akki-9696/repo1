@@ -11,6 +11,12 @@ def substraction(a,b):
 	return sub
 
 
+def div(a,b):
+	try:
+		result = a/b
+	except zero division error:
+		print("cant divide by zero")
+
 
 
 sum_result = addition(10,20)
